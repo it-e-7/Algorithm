@@ -1,4 +1,4 @@
-# [] 문자열분석
+# [10820] 문자열분석
 # islower(), isupper(), isdigit(), isspace()
 # EOFError : 더이상 입력값이 없는 상황
 """

@@ -1,5 +1,8 @@
 # [9417] 최대GCD
+<<<<<<< HEAD
+=======
 
+>>>>>>> 558179e449e4d970780cdec61a05b66cbeaf8563
 """
 range(start, stop, step)
 range(gdc(a,b), 0, -1) --> a,b 중 작은 수부터 1까지 역순으로 반복문 실행
@@ -32,4 +35,8 @@ for _ in range(n):
 #     for i in range(0, len(num_list)-1):
 #         for j in range(i+1, len(num_list)):
 #             answer.append(math.gcd(num_list[i], num_list[j]))
+<<<<<<< HEAD
 #     print(max(answer))
+=======
+#     print(max(answer))
+>>>>>>> 558179e449e4d970780cdec61a05b66cbeaf8563
